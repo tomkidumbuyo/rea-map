@@ -1,0 +1,25 @@
+body{
+  overflow: hidden;
+}
+.google-map{
+  width: 60%;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  height: 100vh;
+}
+
+.map-left{
+  padding-left: 1.2em;
+  padding-top: 1em;
+  width: 40%;
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  top: 0px;
+  background: #fff;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
