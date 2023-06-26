@@ -2,19 +2,17 @@
 class="google-map"
 id="google-map"
 ></div>
-<div
-class="map-left"
->
+<div class="map-left">
   <div class="container">
 
     <div class="page-header">
       <div class="row align-items-center">
         <div class="col">
           <div class="page-pretitle">
-            Overview
+            {{level}}
           </div>
           <h2 class="page-title">
-            Dashboard
+            {{levelName}}
           </h2>
         </div>
 
@@ -24,58 +22,111 @@ class="map-left"
 
 
     <div class="row">
-      <div class="col-md-9 mt-2">
+      <div class="col-md-12 mt-2">
         <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
 
           <div class="btn-group dropdown" role="group">
             <button id="btnGroupDrop1" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="true">
-              All Regions
+              {{ selectedRegion ? selectedRegion.name : "All Regions" }}
             </button>
             <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1" style="max-height: 50vh;overflow: auto;">
-              <li><a class="dropdown-item" >All Regions</a></li>
+              <li><a class="dropdown-item" (click)="selectCountry()" >All Regions</a></li>
+              <li *ngFor="let region of regions" (click)="selectRegion(region)"><a class="dropdown-item" >{{region.name}}</a></li>
             </ul>
           </div>
 
-          <div class="btn-group dropdown" role="group" >
+          <div class="btn-group dropdown" *ngIf="selectedRegion" role="group" >
             <button id="btnGroupDrop2" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-              All Districts
+              {{ selectedDistrict ? selectedDistrict.name : "All Districts" }}
             </button>
             <ul class="dropdown-menu" aria-labelledby="btnGroupDrop3" style="max-height: 50vh;overflow: auto;">
-              <li><a class="dropdown-item" >All Districts</a></li>
-
+              <li *ngFor="let district of selectedRegion.districts" (click)="selectDistrict(district)"><a class="dropdown-item" >{{ district.name }}</a></li>
             </ul>
           </div>
 
-          <div class="btn-group dropdown" role="group" >
+          <div class="btn-group dropdown" *ngIf="selectedDistrict" role="group" >
             <button id="btnGroupDrop3" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-              All Wards
+              {{ selectedWard ? selectedWard.name : "All Wards" }}
             </button>
             <ul class="dropdown-menu" aria-labelledby="btnGroupDrop3" style="max-height: 50vh;overflow: auto;">
-              <li><a class="dropdown-item" >All Wards</a></li>
-
+              <li *ngFor="let ward of selectedDistrict.wards" (click)="selectWard(ward)"><a class="dropdown-item" >{{ ward.name }}</a></li>
             </ul>
           </div>
 
-          <div class="btn-group dropdown" role="group" >
+          <div class="btn-group dropdown" *ngIf="selectedWard" role="group" >
             <button id="btnGroupDrop3" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-              All Villages
+              {{ selectedVillage ? selectedVillage.name : "All Villages" }}
             </button>
             <ul class="dropdown-menu" aria-labelledby="btnGroupDrop3" style="max-height: 50vh;overflow: auto;">
-              <li><a class="dropdown-item" >All Villages</a></li>
+              <li *ngFor="let village of selectedWard.villages" (click)="selectVillage(village)"><a class="dropdown-item" >{{ village.name }}</a></li>
             </ul>
           </div>
 
-          <div class="btn-group dropdown" role="group" >
+          <!--<div class="btn-group dropdown" *ngIf="selectedVillage" role="group" >
             <button id="btnGroupDrop3" type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-              All Neighborhoods
+              {{ selectedHamlet ? selectedHamlet.name : "All Hamlets" }}
             </button>
             <ul class="dropdown-menu" aria-labelledby="btnGroupDrop3" style="max-height: 50vh;overflow: auto;">
-              <li><a class="dropdown-item" >All Neighborhood</a></li>
+              <li *ngFor="let hamlet of selectedVillage.hamlets" (click)="selectHamlet(hamlet)"><a class="dropdown-item" >{{ hamlet.name }}</a></li>
             </ul>
-          </div>
+          </div>-->
 
         </div>
       </div>
     </div>
+
+    <div class="row">
+      <div class="col-md-12 mt-2">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>WILAYA</th>
+              <th>IDADI YA VIJIJI</th>
+              <th>VIJIJI VYENYE UMEME</th>
+              <th>VIJIJI VILIVYOPO KENYE MRADI</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>IRINGA</th>
+              <td>134</td>
+              <td>133</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <th>IRINGA</th>
+              <td>134</td>
+              <td>133</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <th>IRINGA</th>
+              <td>134</td>
+              <td>133</td>
+              <td>1</td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <th>JUMLA</th>
+              <td>360</td>
+              <td>344</td>
+              <td>16</td>
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+    </div>
+
   </div>
 </div>
+
+<button type="button" class="btn btn-light btn-lg back-buckon" (click)="back()" *ngIf="level != 'COUNTRY'">
+  <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-arrow-narrow-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M5 12l14 0"></path>
+    <path d="M5 12l4 4"></path>
+    <path d="M5 12l4 -4"></path>
+ </svg>
+  Back
+</button>

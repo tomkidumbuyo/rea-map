@@ -1,0 +1,819 @@
+MKOA WA NJOMBE,,,,,,,,Scope of works,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,Medium Voltage Line (Km),,Distribution Transformer (kVA),,,LV (km),,,Customers,,
+Mkoa,Wilaya,Halmashauri,Jimbo,Kata,Kijiji,Na,Kitongoji,11kV,33kV,50,100,200,4x95 sq.mm,4x50 sq.mm,LV Total (km),Single Phase,Three Phase,Total
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Ikondo,1,Idyadya,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Ikondo,2,Igumbilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Ikondo,3,Mkondoa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Ikondo,4,Uheni,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Ikondo,5,Manyamle,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Ikondo,6,Mtanga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Ikondo,7,Itova,,7.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Nyave,8,Iduli,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Nyave,9,Ilala,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Nyave,10,Uchange A,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikondo,Nyave,11,Uchange B,,0.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Ukalawa,12,Kingudzilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Ukalawa,13,Mlangali,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Ukalawa,14,Mpongolo,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Ukalawa,15,Mngate,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Ukalawa,16,Ituli,,2.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Ukalawa,17,Kilanzi,,3.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Ukalawa,18,Mkombi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Kitole,19,Kipongolo,,2.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ukalawa,Kitole,20,Mwakailole,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Kanikelele,21,Mtonga,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Kanikelele,22,Kimbo,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Kanikelele,23,Ndago,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Kanikelele,24,Luganga,,3.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Kanikelele,25,Ituli,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Kanikelele,26,Ibanawanu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Kanikelele,27,Igoga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Lupembe,28,Barazani,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Lupembe,29,Iketelo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Lupembe,30,Mbingu,,2.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Ihang'ana,31,Ihang'ana A,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Igombola,32,Ikapanilo,,3.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Lupembe,Igombola,33,Ngamba,,0.0,0,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Matembwe,34,Lung'angali,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Wanginyi,35,Ivanginyi ,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Wanginyi,36,Udinda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Lyalao,37,Idamu,,2.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Lyalao,38,Mfipa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Lyalao,39,Myakaya,,0.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Isoliwaya,40,Mgude,,2.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Isoliwaya,41,Mnemele,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Isoliwaya,42,Utengule,,3.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Isoliwaya,43,Mpeto,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Isoliwaya,44,Usakila,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Welela,45,Mapinduzi,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Welela,46,Majengo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Matembwe,Welela,47,Ilonga,,2.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Itambo,48,Mwembetogwa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Itambo,49,Ndevalongeswela,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Itambo,50,Mtivike,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Itambo,51,Idete,,19.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Ikang'asi,52,Ikinda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Ikang'asi,53,Kihelema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Mfiriga,54,Mfriga B,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Mfiriga,55,Kitumbi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Mfiriga,56,Ilawa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Mfiriga,57,Idavi,,2.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Mfiriga,58,Igugu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Madeke,59,Kipwaji,,0.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Mfriga,Madeke,60,Mji mwema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Nyombo,61,Ibowola,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Nyombo,62,Mapembembeta,,6.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Lole,63,Kitewele,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Lole,64,Mtamba A,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Lole,65,Mtamba B,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Lole,66,Idongela A,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Lole,67,Idongera B,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Lole,68,Usyalula,,7.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Ikuna,69,Mpeto A,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Ikuna,70,Magegele,,1.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Ikuna,71,Mpeto B,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Ikuna,72,Mahata,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Ikuna,73,Manyunyu,,7.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Matiganjola,74,Magola,,4.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Matiganjola,75,Mtwara,,4.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ikuna,Matiganjola,76,Nyimbo,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Iwafi,77,Kanisani,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Iwafi,78,Masaula,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Iwafi,79,Njogochelo,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Iwafi,80,Wistofu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Iwafi,81,Speki,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Iwafi,82,Kamelia,,2.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Iwafi,83,Mgololo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Lwanzali,84,Iguruka,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Lwanzali,85,Lupalali,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Lwanzali,86,Idunda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Idamba,Lwanzali,87,Ipalyanzati,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Image,88,Mwone,,0.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Image,89,Igunguli,,0.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Image,90,Mtowo,,0.7,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Image,91,Lusakanyo,,1.6,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Image,92,Mlangali,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Kidegembye,93,Nyanga,,6.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Kidegembye,94,Isimike,,2.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kidegembye,Havanga,95,Lole,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Ninga,96,Wahe,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Ninga,97,Madamba,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Ninga,98,Mlangali,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Isitu,99,Masagala,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Isitu,100,Mhanu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Isitu,101,Landani,,5.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Ibiki,102,Ndanula,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Ibiki,103,Ibiki B,,3.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Ibiki,104,Matanana,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Igongolo,105,Igongolo B,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Tagamenda,106,Myombwe,,2.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Ninga,Kivitu,107,Ukega,,1.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Upami,108,Mkeng'e,,6.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Upami,109,Ilamba,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Kichiwa,110,Kichiwa B,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Kichiwa,111,Mjimwema,,1.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Ikando,112,Ipang'ila,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Ikando,113,Mawande,,2.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Maduma,114,Maduma C,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Ilengititu,115,Ifunda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Ilengititu,116,Madamba,,2.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Ilengititu,117,Masilu,,6.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Ikisa,118,Ichenga.,,1.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Kilenzi,119,Madati Chini,,1.8,1,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Kilenzi,120, Madati Juu,,,,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Kilenzi,121,Itunu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe DC,Lupembe,Kichiwa,Kilenzi,122,Pelaga B,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Kifanya,123,Chanucha,,1.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Mikongo,124,Tolondo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Mikongo,125,Maposane,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Mikongo,126,Igagala,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Liwengi,127,Igahilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Liwengi,128,Mbasa,,1.2,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Liwengi,129,Makanjaula,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Liwengi,130,Igawisenga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Lilombwi,131,Wanginyi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Lilombwi,132,Kivulunge,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Utengule,133, Utengule,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Utengule,134,Kibondeni,,0.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Utengule,135,Uliwa,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Utengule,136,Ngelele,,4.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Kifanya,Lwangu,137,Lwauganga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Mamongolo,138, Kidewa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Mamongolo,139,Mamongolo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Mamongolo,140,Kibaoni,,1.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Mamongolo,141,Mabibo,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Makowo,142,Amani,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Makowo,143,Mahenye,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Makowo,144,Mazombwe,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Makowo,145,Ibara,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Makowo,146,Igobi,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Ng’elamo,147,Mbima,,1.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Ng’elamo,148,Amani,,3.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Makowo,Ng’elamo,149,Ulindiwa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mbega,150,Kinyangesi,,0.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mbega,151,Iganga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mbega,152,Mwanamonga,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mbega,153,Ilongo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mtila,154,Lizaboni,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mtila,155,Ukanyange,,3.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mtila,156,Mjimwema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mtila,157,Nyamnoge,,,0,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mtila,158,Mayavile,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mtila,159,Iholo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Mtila,160,Mwembetogwa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Matola,Boimanda,161,Msekenalo,4.1,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Yakobi,Yakobi,162,Utulimwani,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Yakobi,Yakobi,163,Mayambatu,,3.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Yakobi,Yakobi,164,Lwamhenga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Yakobi,Idunda,165,Matewela,,5.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Yakobi,Idunda,166,Matamba,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Yakobi,Igominyi,167,Moyange,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Yakobi,Igominyi,168,Muedzela ,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Iwungilo,169,Iwungilo(A),,3.4,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Iwungilo,170,Iwungilo kati,,0.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Iwungilo,171,Magiwi,,2.2,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Iwungilo,172,Taling’emelo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Iwungilo,173,Ipulwa,,2.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Igoma,174,Subuta,,1.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Igoma,175, Fweya,,2.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Uliwa,176,Kisangula,,4.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Ngalanga,177,Bomba Mbili,,1.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Ngalanga,178,Mfaranyaki,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Ngalanga,179,Mjimwema,,2.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Iwungilo,Ngalanga,180,Njomlole,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Lugenge,181,Unyamle,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Lugenge,182,Vilenga,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Lugenge,183,Ihelo,,1.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kiyaula,184,Madobole,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kiyaula,185,Idilu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kiyaula,186,Iyayi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kiyaula,187,Makufa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kisilo,188,Mhenye,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kisilo,189,Mapila,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kisilo,190,Lugao,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Kisilo,191,Mtela,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Idihani,192,Ulindiwa,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Idihani,193,Uyagilo,,3.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Idihani,194,Idihani,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Lugenge,Idihani,195,Mawala,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Ihanga,Mgala,196,Luwengi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Mfereke,197,Idunda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Mfereke,198,Ilunga,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Mfereke,199,Mheve,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Mfereke,200,Mfereke chini,,2.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Utalingolo,201,Ruhuji,,2.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Utalingolo,202,Iliwa,,1.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Utalingolo,203,Ifuna,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Ihalula,204,Magema,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Ihalula,205,Mtakuja,,2.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Ihalula,206,Madihani,,1.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Ihalula,207,Ng’imbi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Utalingoro,Ihalula,208,Wikichi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Luponde,Luponde,209,Mlogelwa,,0.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe, Njombe TC,Njombe Mjini,Luponde,Luponde,210,Mjimwema,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+MAKAMBAKO TOWN COUNCIL-VILLAGES,,,,,,,,,,,,,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Ibatu,211,Kinega,,5.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Ibatu,212,Isaula,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Mbugani,213,Mtanga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Mbugani,214,Itulike,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Mbugani,215,Kichangani,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Mtulingala,216,Manzese,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Mtulingala,217,Mtulingala,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Mtulingala,218,Mji Mwema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Mtulingala,219,Kidete,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Nyamande,220,Uchachikile A,,0.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Nyamande,221,"Uchachikile ""B""",,,,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Nyamande,222,Kwamangula,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Kitandililo,223,Mwongozo,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Kitandililo,224,Madaraka,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Kitandililo,225,Mfumbi,,11.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Kitandililo,Kitandililo,226,Ulinzi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Manga,227,Mvengi ''A'',,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Manga,228,"Mvengi ""B""",,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Kifumbe,229,Matengini,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Kifumbe,230,Msesule,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Kifumbe,231,Isaula/Wangama,,0.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Kifumbe,232,Mjimwema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mahongole,233,"Mahongole ""B""",,1.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mahongole,234,Ibedanja,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mahongole,235,Njiapanda,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mahongole,236,Ilunda,,5.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Usetule,237,"Mhomela ""A""",,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Usetule,238,"Mhomela ""B""",,1.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Usetule,239,Magomati,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Usetule,240,Melela,,3.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mtanga,241,Makenekene,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mtanga,242,Nung'ano,,4.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mtanga,243,Ilambo,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Mahongole,Mtanga,244,Kigoda,,7.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Utengule,Utengule,245,Mbweni,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Utengule,Utengule,246,Lundukali,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Utengule,Mawande,247,Muungano,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Utengule,Mawande,248,Lugalo,,,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Utengule,Ngamanga,249,Tukuyu,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Utengule,Ngamanga,250,Ihami,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Njombe,Makambako TC,Makambako,Utengule,Ngamanga,251,Igalavi,,1.1,1,0,0,2.0,1.0,3.0,30,2,32
+JUMLA NDOGO,,,,,,251,251,4.1,302.6,238,10,0,504.0,252.0,756.0,"7,560",504,"8,064"
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Kiwe,1,Kisuti,4.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Kiwe,2,Lumbila,,,,,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Mawengi,3,Newele,3.5,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Mawengi,4,Ikulu,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Mawengi,5,Mheza,,,,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Kitewele,6,Mapelele,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Kitewele,7,Lutika,7.3,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Kitewele,8,Mpanda,5.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mawengi,Kitewele,9,Mdonga ,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ibumi,Ibumi,10,Morogoro,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ibumi,Ibumi,11,Msumbiji,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ibumi,Ibumi,12,Nyamalamba,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ibumi,Ibumi,13,Mkerema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ibumi,Ibumi,14,Mpanga,,4.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ibumi,Masimavalafu,15,Mashariki,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Ludende,16,Masita,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Ludende,17,Mpumbwi,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Madindo,18,Madindo,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Maholong'wa,19,Maholong'wa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Maholong'wa,20,Maboga,,1.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Maholong'wa,21,Kihenyena,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Maholong'wa,22,Ndilima,,2.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ludende,Mapogoro,23,Mpocho,2.4,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lupanga,24,Kinyika,1.1,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lupanga,25,Mayokola,1.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lupanga,26,Mapyufya,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lupanga,27,Mchalawa,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Utilili,28,Mlumblu,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Utilili,29,Janzikona,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Utilili,30,Mjange,3.2,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Utilili,31,Mahanje,0.9,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lusala,32,Kijiweni,0.9,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lusala,33,Morogoro,2.3,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lusala,34,Kivukoni,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lusala,35,Idete,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lusala,36,Lufumbo,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lusala,37,Ikulungilo,1.5,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lufumbu,38,Ihonjogoro,1.5,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lufumbu,39,Maganga,0.8,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lufumbu,40,Itiwili,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Lufumbu,41,Itoki,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupanga,Ligumbiro,42,Masaula,2.5,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lubonde,Mkiu,43,Lubonde,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lubonde,Mkiu,44,Magasivalale,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lubonde,Mkiu,45,Nyamwihake,2.1,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lubonde,Masimbwe,46,Mselesele,2.8,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lubonde,Masimbwe,47,Igelango,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lugarawa,Mdilidili,48,Mavula,3.5,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lugarawa,Shaurimoyo,49,Myombo,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lugarawa,Shaurimoyo,50,Mwendapole,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mundindi,Njelela,51,Mwembetogwa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mundindi,Njelela,52,Mbugani,,3.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mundindi,Amani,53,Chimbo (Dodoma),,3.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madope,Madope,54,Mlingano,3.6,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madope,Mangalanyene,55,Ligelango,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madope,Luvuyo,56,Mjimwema,0.0,,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madope,Luvuyo,57,Mking'ino,10.5,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madilu,Madilu,58,Temeke,1.4,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madilu,Madilu,59,Mpocho,2.9,,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madilu,Ilininda,60,Mjimwema,5.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madilu,Ilininda,61,Njodeko,1.1,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Madilu,Ilininda,62,Temeke,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mkongobaki,Mkongobaki,63,Ushirikiano,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mkongobaki,Mkongobaki,64,Mpechi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mkongobaki,Lipangala,65,Mnoge,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mkongobaki,Lipangala,66,Mhumbi,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mkongobaki,Lipangala,67,Kidingili,,1.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mkongobaki,Ugera,68,Kigina,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Mkongobaki,Ugera,69,Ushirikiano,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Manda,Mbongo,70,Mbongo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Manda,Mbongo,71,Isota,,3.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Manda,Mbongo,72,Lutala,,5.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Manda,Mbongo,73,Mbande,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Manda,Mbongo,74,Kisaula,,4.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Manda,Nsungu,75,Nyakaula,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Manda,Nsungu,76,Nyanyama,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Masasi,Lihagule,77,Nkongoleko,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Masasi,Lihagule,78,Ndengele,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Masasi,Lihagule,79,Ndika,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ruhuhu,Ilela,80,Ibugulu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ruhuhu,Ngelenge,81,Kivukoni,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ruhuhu,Kipingu,82,Pantoni,,1.9,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Ruhuhu,Kipingu,83,Msafiri,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Nkomang'ombe,Nkomang'ombe,84,Ntiule,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Nkomang'ombe,Nkomang'ombe,85,Idusi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Nkomang'ombe,Nkomang'ombe,86,Nyamalapi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Nkomang'ombe,Nkomang'ombe,87,Mhambalasi A,,21.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Nkomang'ombe,Kimalembe,88,Mjimwema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Iwela,Iwela,89,Kilomsi,,3.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Iwela,Iwela,90,Kibo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Iwela,Kipangala,91,Kipangala Kati,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Iwela,Kipangala,92,Kipangala ,,1.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Iwela,Lifua,93,Liumba,,7.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Iwela,Liughai,94,Ndambasi,,1.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Makonde,95,Ndamba,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Makonde,96,Lusota,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Makonde,97,Mbweya,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Makonde,98,Lunyangi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Kimata,99,Ntuliki,1.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Kimata,100,Likwakwa,1.8,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Kimata,101,Kimata kati,5.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Ndowa,102,Lulandao,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Ndowa,103,Lusisi,,5.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Ndowa,104,Liunji,,5.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Ndowa,105,Mwelisye,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Ndowa,106,Lukuu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Makonde,Ndowa,107,Mpunda,,5.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lifuma,Lifuma,108,Lwambo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lifuma,Lifuma,109,Kilindi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lifuma,Lifuma,110,Ntungu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lifuma,Lifuma,111,Kiwigili,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lifuma,Nsisi,112,Ntalawanda,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Lumbila,113,Mabatini,,,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Lumbila,114,Makela,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Lumbila,115,Kina,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Nkanda,116,Ituli,,0.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Nkanda,117,Nkanda,,,,,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Nkanda,118,Kilandala,,,,,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Nkanda,119,Isanga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Nkanda,120,Kapungu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lumbila,Nkanda,121,Mbimbi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Kilondo,Kilondo,122,Mbula,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Kilondo,Kilondo,123,Ugindu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Kilondo,Kilondo,124,Ifungu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Kilondo,Nsele,125,Ipenja,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Kilondo,Nsele,126,Sange,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Kilondo,Nsele,127,Woyo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupingu,Nkwimbili,128,Morogoro,1.5,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupingu,Nkwimbili,129,Kilambo,1.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupingu,Nindi,130,Ipombo,1.4,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupingu,Lupingu,131,Lukuyusi,4.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupingu,Ntumbati,132,Kiseke,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupingu,Ntumbati,133,Liwili,5.0,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Ludewa,Ludewa DC,Ludewa,Lupingu,Ntumbati,134,Ilombe,0.0,,1,0,0,2.0,1.0,3.0,30,2,32
+JUMLA NDOGO,,,,,,134,,91.7,86.7,125,5,0,268.0,134.0,402.0,"4,020",268,"4,288"
+Njombe,Makete,Makete DC,Makete,Kipagalo,Iyoka ,1,Igaruki,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Iyoka ,2,Fikovo,,3.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Kitula ,3,Ilamba,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Mahulu,4,Kawale,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Unyangala ,5,Ilevelo,,1.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Unyangala ,6,Uhome,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Kilanji,7,Ipululu,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Kilanji,8,Unyambogela,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kipagalo,Utengule ,9,Ilamba,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Luwumbu,Unenamwa,10,Ng'ingi,,1.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Luwumbu,Uganga,11,Uganga,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Luwumbu,Uganga,12,Magusu,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Luwumbu,Lugao,13,Kyivili,,2.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Luwumbu,Lugao,14,Kihuyi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Luwumbu,Usililo,15,Kipenula,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Luwumbu,Luwumbu,16,Luwumu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Bulongwa,Bulongwa,17,Lupaso,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Bulongwa,Utanziwa,18,Masalala,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ukwama,19,Nyololo,,0.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ukwama,20,Kikunga,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ukwama,21,Ikovo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ukwama,22,Lupate,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ukwama,23,Ikombo,,0.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ukwama,24,Lumuli,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ihanga,25,Lupule,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ihanga,26,Nsasa,,0.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ihanga,27,Ikiligano,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Ihanga,28,Mpocho,,2.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Masisiwe,29,Ihobwela,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Masisiwe,30,Masisiwe,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ukwama,Masisiwe,31,Ilevelo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Tandala,Usagatikwa,32,Ipindo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Tandala,Usagatikwa,33,Kidimilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Tandala,Usagatikwa,34,Wambuliwa,,2.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Usungilo,35,Kipambawe,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Usungilo,36,Lutengano,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Usungilo,37,Intema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Makangalawe,38,Lwimatilo,,1.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Makangalawe,39,Utege,,0.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Makangalawe,40,Kinyamwelelo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Mang'oto,41,Sivalatse,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Mang'oto,42,Mabande,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Mang'oto,43,Hazina,,0.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Mang'oto,44,Ipululu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Mang'oto,45,Udane,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Ibaga,46,Matalawe,,0.4,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Ibaga,47,Mwalimogo,,,,,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Malembuli,48,Jasika,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Malembuli,49,Uganga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Ilindiwe,50,Ikungula,,1.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mang'oto,Ilindiwe,51,ihagala,,2.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Lupila,52,Chunya,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Lupila,53,Kigoda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Lupila,54,Ikowo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Lupila,55,Makyala,,4.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Lupila,56,Upakilwa kati,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Lupila,57,Idangaja,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Lupila,58,Ukwelela,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Malanduku,59,Ngingida,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Malanduku,60,Matuje,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Malanduku,61,Kidinguli,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ludilu,62,Njulige,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ludilu,63,Kipengere,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ludilu,64,Kibali,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ludilu,65,Isula,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ludilu,66,Sunji,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Igumbilo ,67,Lusigu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Igumbilo ,68,Mkigi,,1.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Igumbilo ,69,Ipululu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Igumbilo ,70,Igumbilo kati,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ukange ,71,Nzutu,,,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ukange ,72,Kipetu,,,,,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ukange ,73,Masitu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ukange ,74,Ibonde,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Ukange ,75,Lupumbwe,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Kijyombo,76,Nguruka,,2.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Kijyombo,77,Nsada,,1.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupila,Kijyombo,78,Ng'ogo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ipepo,79,Uluwe,,5.2,2,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ipepo,80,Kinyunyu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ipepo,81,Ntera,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ipepo,82,Matundu,,3.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,83,Sikelema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,84,Isuga,,1.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,85,Lubindi,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,86,Mjimwema,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,87,Ipululu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,88,Ilonga,,3.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,89,Mpongolo,,2.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,90,Nkwenzulu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Igolwa,91,Legeza,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,92,Itundu,,3.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,93,Motele,,3.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,94,Iheka,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,95,Ugwila,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,96,Ilungu,,1.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,97,Ulininda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,98,Singilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ilungu,99,Kinyambagale,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ikete,100,Lukunga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ikete,101,Masasato,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Ikete,102,Itambalasu,,1.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Maliwa,103,Ng'ang'a,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Maliwa,104,Mauli,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Maliwa,105,Lupumbwe,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Maliwa,106,Wikosile,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Maliwa,107,Wanasiale,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Maliwa,108,Luhulu,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipepo,Maliwa,109,Kitenga,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Kisasatu,110,Tindiga,,0.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Kisasatu,111,Tembile,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Lupombwe,112,Mavanga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Lupombwe,113,Ulininda,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Lupombwe,114,Nyakigube,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Mbalatse,115,Iduda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Mbalatse,116,Iganga,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mbalatse,Mbalatse,117,Ludodolelo,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Isapulano,Ivilikinge,118,Mulubuta,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Mago,119,Luwilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Mago,120,Idege,,3.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Kisinga,121,Valimba,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Kisinga,122,Kyosi,,3.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Ilevelo,123,Ukenza,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Ilevelo,124,Nyamwiko,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Ugabwa,125,Ipululu ,,0.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Ugabwa,126,Lusule,,,,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Ugabwa,127,Ugabwa,,,0,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Lupalilo,Ugabwa,128,Upingwa,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Mwakauta,129,Ndivila,,1.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Mwakauta,130,Mwakauta,,,,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Nkunga,131,Lugavilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Nkunga,132,Nkunga B,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Unyangogo,133,Changwani,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Unyangogo,134,Mpembati,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Unyangogo,135,Ikata,,3.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Lumage,136,Luangwa,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Iniho,Lumage,137,Matembe,,2.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipelele,Ubiliko,138,Ubiliko,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipelele,Ipelele,139,Mwalusa,,7.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipelele,Misiwa,140,Mahemu,,4.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipelele,Makwaranga,141,Mwambelo,,0.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipelele,Makwaranga,142,Mpulo,,,,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Ipelele,Makwaranga,143,Nyitule,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigulu,Kigulu,144,Unyamwile,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigulu,Kigulu,145,Mlanda,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigulu,Kigulu,146,Kibumba,,5.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigulu,Kigulu,147,Ndamba,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigulu,Kigulu,148,Mfungwe,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Matamba,Ngoje,149,Ukongola,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Matamba,Ngoje,150,Majengo,,0.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Matamba,Ngoje,151,Kitekelo,,5.7,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kinyika,N'dapo,152,Iwale,,0.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kinyika,Kinyika,153,Lusese,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kinyika,Kinyika,154,Igofi,,9.1,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kinyika,Kinyika,155,Mlengela,,1.8,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Itundu,Ikungula,156,Itete,,1.4,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Itundu,Ikungula,157,Atomiki,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Itundu,Ikungula,158,Masala,,0.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Itundu,Lugoda,159,Ipelele,,0.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Itundu,Igenge,160,Ijela,,2.6,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Mlondwe,161,Kitamba,,1.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Mlondwe,162,Masoli,,4.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Mlondwe,163,Ipyaghila,,1.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Mbela,164,RC,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Mbela,165,Igumbilo,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Mbela,166,Mola,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Ng'onde,167,Lubitwa,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Ng'onde,168,Ntevele,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Ng'onde,169,Itani,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Nkondo,170,Lulongoti,,0.9,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Nkondo,171,Ipugi,,1.3,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Matenga,172,Lupombo,,,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mlondwe,Matenga,173,Ifinga,,0.0,0,1,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigala,Mlengu,174,Wangamiho,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigala,Mlengu,175,Mpumbwe,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigala,Mlengu,176,Mbigili,,3.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigala,Kigala,177,Kigala Juu,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigala,Kigala,178,Mahenye,,5.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigala,Kigala,179,Mlovo,,4.2,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Kigala,Kigala,180,Kitwange,,2.5,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mfumbi,Usalimwani,181,Itamba,,0.0,1,0,0,2.0,1.0,3.0,30,2,32
+Njombe,Makete,Makete DC,Makete,Mfumbi,Usalimwani,182,Ihumbi,,2.2,1,0,0,2.0,1.0,3.0,30,2,32
+,,,,Small Town Council,,,,,,,,,,,,,,
+Njombe,Makete,Makete DC,Makete,Mfumbi,Iwawa,183,Majengo,,1.4,1,0,0,1.0,2.0,3.0,20,1,21
+JUMLA NDOGO,,,,,,183,,0.0,165.6,172,8,0,365.0,184.0,549.0,"5,480",365,"5,845"
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Itambo,1,Chaluhanga,,4.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Itambo,2,Kidudumo,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Itambo,3,Mapila,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Ihanja,4,Salimwani,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Ihanja,5,Malangali,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Mungate,6,Mayavile,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Mungate,7,Lukani,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Mdandu,8,Mahongole,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Mdandu,Mdandu,9,"Ngelele ""A""",,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Sakalenga,10,Makoga,,1.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Sakalenga,11,Nyalava,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Isindagosi,12,Mpwapwa,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Isindagosi,13,Isindagosi,,0.0,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Isindagosi,14,Idunda,,,,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Itulahumba,15,Wanike,,0.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Itowo,16, Sadan,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Itowo,17,Isupilo,,2.5,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Itowo,18,Idodi,,,,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Mlevela,19,Kibedagogoro,,1.2,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Mlevela,20,Idunda,,1.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Lusisi,21,Zahanati,,1.5,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Lusisi,22,Mtakuja,,1.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Lusisi,23,Malagalidzi/Mvinila,,2.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Nyumbanitu,24,Idopedope,,1.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Nyumbanitu,25,Ukalawa,,1.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Nyumbanitu,26,Njocho,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Itulahumba,Lulanzi,27,Lole,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Indilimunyo,28,Makoga,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Indilimunyo,29,Nyawenga,,1.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Igwachanya,30,Igombatavangu,,2.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Igwachanya,31,Ulanga,,0.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Igwachanya,32,Makungu,,2.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Chalowe,33,Mdemi,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Kanani,34,Lukala,,3.5,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Kanani,35,Magadzu,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Kanani,36,Lusaka,,1.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Palangawanu,37,Ikingula,,1.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Palangawanu,38,Ihege,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Palangawanu,39,Lukeheya,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Palangawanu,40,Mgedule,,2.3,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Mtapa,41,Mtapa kati,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Mtapa,42,Mwakisi,,1.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igwachanya,Mtapa,43,Yeriko,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Matowo,44,Shuleni ,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Matowo,45,Magegele,,1.7,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Lugoda,46,Igando,,0.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Lugoda,47,Ihanga,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Lugoda,48,Uligile,,1.7,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Usuka,49,Matipu,,3.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Ikwega,50,Igailo,,1.3,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Ikwega,51,Ihang'ana,,1.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Usuka,Iteni,52,Kisangani,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Luduga,53,Mlimani,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Luduga,54,Mlangali,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Hanjawanu,55,Mtambani,,0.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Hanjawanu,56,Mkombozi,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Hanjawanu,57,Mtakuja,,1.4,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Hanjawanu,58,Hanjawanu,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Mambengu,59,Mayomboni,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Korintho,60,Ludengele,,1.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Korintho,61,Mwembeni,,0.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Igando,62,Nyamtowo,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Igando,63,Miho,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Igando,64,Mbilili,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Iyayi,65,Changarawe,,2.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Iyayi,66,Kihowa,,3.3,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Mpanga,67,Msamala,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Mpanga,68,Mpanga kati,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Mpanga,69,Balali,,5.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Luduga,Mpanga,70,Darajani,,1.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Malangali,Malangali,71,Uhunguja,,1.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Malangali,Malangali,72,Ibamanzi,,3.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Malangali,Malangali,73,Itamba,,4.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Malangali,Malangali,74,Welela,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Malangali,Wangamiko,75,Soliwaya,,6.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Malangali,Wangamiko,76,Chamjombe,,0.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Malangali,Wangamiko,77,Nyanja,,1.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Wanging'ombe,78,Kihanga,,0.3,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Litundu,79,Welela,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Litundu,80,Litundu,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mbembe,81,Ukombozi,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mbembe,82,Itula,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mbembe,83,Muungano,,4.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mbembe,84,Kigamboni,,1.4,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mbembe,85,Salimwani ,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Ufwala,86,Mtendeleji,,2.3,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mang'elenge,87,Ikemeja,,1.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mang'elenge,88,Magofu,,3.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mayale,89,Mabaloni,,2.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Mayale,90,Mtakuja,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Itandula,91,Gomahenja,,0.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Itandula,92,Mjimwema,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Itandula,93,Lulanga,,1.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Wanging'ombe,Itandula,94,"Itandula ""B""",,,,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Ujindile,95,Mjimwema A,,1.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Ujindile,96,Mjimwema B,,,,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Ujindile,97,Mtamba,,0.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Wangutwa,98,Muungano,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Wangutwa,99,Wehe,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Igelango,100,Talamaganga,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Igelango,101,Mtakuja,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Msimbazi,102,Kihanga,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Msimbazi,103,Mbuyuni,,3.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Msimbazi,104,Mapogoro,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Katenge,105,Magongo,,2.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Katenge,106,Katenge B,,2.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Utiga,107,Tambukareli,,0.3,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Utiga,108,Utiga Magharibi,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Mtewele,109,Mdonya,,1.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Uhambule,110,Igominyi,,0.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Uhambule,111,Chafwini,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Uhambule,112,Ngenyango,,0.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhambule,Uhambule,113,Msasati,,2.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Lyadebwe,114,Majengo,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Lyadebwe,115,Mbuyuni,,2.2,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Lyadebwe,116,Mgogoji,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Lyadebwe,117,Mlimani,,1.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ukomola,118,Mkavu,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ukomola,119,Kigunge,,2.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ukomola,120,Cheleji,,0.0,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ukomola,121,Nyamko,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Lyamluki,122,Chang'anga,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Lyamluki,123,Aman,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Lyamluki,124,Mbuyuni,,1.3,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ikwavila,125,Ibula,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ikwavila,126,Mbuyuni,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ikwavila,127,Igoma,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Ikwavila,128,Ikwavila Kati,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Saja,129,Ilole ,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Saja,130,Muungano,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Saja,131,Makondo Kati,,5.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igenge,132,Misufini,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igenge,133,Mtwango,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igenge,134,Ijengelimembe,,1.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igenge,135,Kibugumo,,2.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igomba,136,Igeleke,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igomba,137,Isining'ombe,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igomba,138,Ng'ondovi,,4.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Igomba,139,Unyanye,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Isimike,140,Uhambule,,0.9,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Isimike,141,Ibanavanu,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Isimike,142,Ijengelimembe,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Isimike,143,Igangasenga,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Idenyimembe,144,Ujindile,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Idenyimembe,145,Mpakani,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Idenyimembe,146,Mawesaba,,2.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Idenyimembe,147,Mtakuja,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Itengelo,148,Ipambe,,0.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Itengelo,149,Chang'eng'ene,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Itengelo,150,Utipule,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kijombe,Itengelo,151,Majengo,,0.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Ikulimambo,152,Mayavile,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Ikulimambo,153,Igomelo,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Ikulimambo,154,Mbugi,,1.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Ikulimambo,155,Mlangali,,2.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Uhenga,156,Ulapilwa,,1.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Uhenga,157,Kitelevadzi,,1.7,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Mapogoro,158,Mlingo,,4.8,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Mapogoro,159,Mapogoro,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Iponda,160,Iponda,,1.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Iponda,161,Ngalanga B,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Iponda,162,Ngalanga A,,,,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Kanamalenga,163,Isimikinyi,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Kanamalenga,164,Mjimwema,,0.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Uhenga,Kanamalenga,165,Fikaye,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Udonja,166,Lala Salama,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Udonja,167,Mgachu,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Ujange,168,Milimani,,1.6,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Ujange,169,Masaulwa,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Banawamu,170,Banawanu,,,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Banawamu,171,Talibatu,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Banawamu,172,Lyaubaga,,1.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Kasagala,173,Majengo,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Kasagala,174,Uhwaga,,1.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Mpululu,175,Mjimwema,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Mpululu,176,Mlomboji,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Wangama,177,Mdandu/Lutegelo,,6.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Wangama,178,Ngelele,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Imalilo,179,"Ilula ""A""",,2.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Imalilo,180,"Ilula ""B""",,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Imalilo,181,Msaada,,0.0,0,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Imalilo,182,Kibena,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Udonja,Imalilo,183,Mtakuja,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Ulembwe,184,Bondea,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Ulembwe,185,Lwahinula,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Ulembwe,186,Ipangala,,2.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Ulembwe,187,Ulembwe,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Usita,188,Usita,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Usita,189,Malamba,,4.2,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Igagala,190,Idunda,,3.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Usalule,191,Usalule,,2.2,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Usalule,192,Idono,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Ulembwe,Usalule,193,Ndolela,,,0,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Imalinyi,194,Itula,,3.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Imalinyi,195,Mtwango,,,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Imalinyi,196,Ukeya,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Masaulwa,197,Uhemi,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Masaulwa,198,Yeriko,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Masaulwa,199,Ikaula,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Masaulwa,200,Kilongo,,3.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Imalinyi,Masaulwa,201,Mhanga,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Kidugala,202,Ugungule,,1.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Kidugala,203,Mwalivale,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Ilulu,204,"Lugalo ""A""",,1.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Ilulu,205,Lugalo B,,4.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Gonelamafuta,206,Kalenga,,1.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Gonelamafuta,207,Mlaga,,1.4,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Masilu,208,Masilu chini,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Masage,209,Kihanga,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kidugala,Masage,210,Wiyandage,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Igosi,211,Majengomapya,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Ivigo,212,Chaung'eng'e,,0.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Ivigo,213,Itula,,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Ivigo,214,Ifunda,,2.4,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Ivigo,215,Ipogolo,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Ujindile,216,Mbambala,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Ujindile,217,Tegamatwa,,0.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Igosi,Ujindile,218,Fuka,,1.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Samaria,219,Uvangwa,,1.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Samaria,220,Igongwi,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Utelewe,221,Ludewa,,1.5,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Utelewe,222,Mtuna,,1.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Utelewe,223,Mhanga,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Idunda,224,Mtalawe,,1.4,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Idunda,225,Kihesa,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Uhekule,226,Mifugo,,1.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Uhekule,227,Ipombwe,,1.1,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Uhekule,228,Mguti,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Mdasi,229,Isanzike,,0.7,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Makoga,Mdasi,230,Chalukungu,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Kipengere,231,Igelukilo,,0.0,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Mwilamba,232,Tove,,8.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Mwilamba,233,Majengo,,0.6,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Mwilamba,234,Isitu,,0.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Mwilamba,235,Mjimwema,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Moronga,236,Kilanzi,,6.3,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Moronga,237,Matwaki,,1.0,1,1,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Moronga,238,Isikitila,,,,,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Ing'enyango,239,"Ing'enyango ""A""",,0.9,1,0,0,2.0,1.0,3.0,32,2,34
+Njombe,Wanging'ombe,Wanging'ombe DC,Wanging'ombe,Kipengere,Ing'enyango,240,"Ing'enyango ""B""",,0.6,1,0,0,2.0,1.0,3.0,32,2,34
+JUMLA NDOGO,,,,,,240,,0.0,241.6,203,29,0,480.0,240.0,720.0,"7,680",480,"8,160"
+JUMLA KUU,,,,,,808,,95.8,796.5,738,52,0,"1,617.0",810.0,"2,427.0","24,740","1,617","26,357"
