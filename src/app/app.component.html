@@ -1,9 +1,9 @@
 <div
 class="google-map"
 id="google-map"
-[style]="level == 'REGION' || level == 'DISTRICT' ? 'width: 50%' : ''"
+[style]="level == 'REGION'  ? 'width: 50%' : level == 'DISTRICT' ? 'width: 70%' : ''"
 ></div>
-<div class="map-left" [style]="level == 'REGION' || level == 'DISTRICT' ? 'width: 50%' : ''">
+<div class="map-left" [style]="level == 'REGION'  ? 'width: 50%' : level == 'DISTRICT' ? 'width: 30%' : ''">
   <div class="container-fluid">
 
     <div class="page-header">
