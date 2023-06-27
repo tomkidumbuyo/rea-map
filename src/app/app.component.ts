@@ -6,11 +6,11 @@ import { styles } from './map.style';
 import { Observable } from 'rxjs';
 
 
-const DESELECTED_STYLE = {fillOpacity: 0.1, strokeOpacity: .5, strokeWeight: 2, strokeColor: "#2c3e50", fillColor: "#f1c40f",}
-const HOVER_STYLE = {fillOpacity: 0.3, strokeOpacity: 0.2, strokeWeight: 2.0, strokeColor: "#2c3e50", fillColor: "#2ecc71",}
+const DESELECTED_STYLE = {fillOpacity: 0.5, strokeOpacity: .5, strokeWeight: 2, strokeColor: "#2c3e50", fillColor: "#f1c40f",}
+const HOVER_STYLE = {fillOpacity: 0.5, strokeOpacity: 0.2, strokeWeight: 2.0, strokeColor: "#2c3e50", fillColor: "#2ecc71",}
 
-const HOVER_LABEL_STYLE = {color: 'black', fontSize: "17px"}
-const DESELECTED_LABEL_STYLE = {color: 'black', fontSize: "17px"}
+const HOVER_LABEL_STYLE = {color: '#2c3e50', fontSize: "17px"}
+const DESELECTED_LABEL_STYLE = {color: '#2c3e50', fontSize: "17px"}
 
 const TANZANIA_CENTER_COORDINATES = { lat: -6.431669815195914, lng: 34.6385658154605 };
 const TANZANIA_CENTER_ZOOM = 7;
@@ -57,7 +57,7 @@ export class AppComponent {
       center: TANZANIA_CENTER_COORDINATES,
       zoom: TANZANIA_CENTER_ZOOM,
     });
-    this.map.setOptions({ styles: styles["silver"] });
+    this.map.setOptions({ styles: styles["custom"] });
 
     if(polygon) {
       const bounds = this.getBoundsFromPolygon(polygon)
@@ -202,7 +202,7 @@ export class AppComponent {
       const polygon = await this.getPolygon(ward.polygon)
       if(polygon) {
         this.drawPolygonsToMap(ward.name, polygon, () => {
-          this.selectWard(ward);
+          // this.selectWard(ward);
         })
       }
 
