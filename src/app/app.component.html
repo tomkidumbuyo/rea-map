@@ -23,14 +23,9 @@ id="google-map"
 
 
     <div class="row" *ngIf="level == 'REGION'">
-
         <img class="img-fluid" src="../assets/regions/{{selectedRegion.name}}.jpeg"></div>
-
     </div>
-
-    <div style="width: 100%; min-height: 100vh" *ngIf="level == 'DISTRICT'">
-      <iframe style="width: 100%; min-height: 100vh" src="https://onedrive.live.com/embed?resid=AA485CB4B75D68AD%21108&authkey=!ABhcSULuRJrR6bc&em=2" frameborder="0" scrolling="no"></iframe>
-    </div>
+    <div style="width: 100%; min-height: 100vh" *ngIf="level == 'DISTRICT'" [innerHTML]="selectedDistrict.link"></div>
 
 
 

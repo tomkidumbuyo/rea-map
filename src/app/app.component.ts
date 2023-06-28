@@ -1,9 +1,11 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http'
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 
 import regionData from '../assets/regions.json';
 import { styles } from './map.style';
-import { Observable } from 'rxjs';
+import embededDistrictsData from '../assets/embeded-districts.json';
+
 
 
 const DESELECTED_STYLE = {fillOpacity: 0.5, strokeOpacity: .5, strokeWeight: 2, strokeColor: "#2c3e50", fillColor: "#f1c40f",}
@@ -32,6 +34,7 @@ const level = {
 export class AppComponent {
 
   regions = regionData;
+  embededDistricts = embededDistrictsData;
   map: any;
 
   level = level.COUNTRY;
@@ -45,7 +48,7 @@ export class AppComponent {
 
 
 
-  constructor(private httpClient: HttpClient) {}
+  constructor(private httpClient: HttpClient, private sanitizer: DomSanitizer) {}
 
   ngOnInit() {
     // this.initMap();
@@ -194,6 +197,11 @@ export class AppComponent {
     this.selectedVillage = null;
     this.selectedHamlet = null;
     this.levelName = this.selectedDistrict.name
+
+    const link = this.embededDistricts.find(d => d.name == district.name);
+    if(link) {
+      this.selectedDistrict.link = this.sanitizer.bypassSecurityTrustHtml(link.link)
+    }
 
     const districtPolygon = await this.getPolygon(district.polygon)
     this.initMap(districtPolygon)
